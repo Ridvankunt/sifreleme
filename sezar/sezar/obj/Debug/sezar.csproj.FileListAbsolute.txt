@@ -1,0 +1,15 @@
+C:\Users\meteh\source\repos\sezar\sezar\bin\Debug\sezar.exe.config
+C:\Users\meteh\source\repos\sezar\sezar\bin\Debug\sezar.exe
+C:\Users\meteh\source\repos\sezar\sezar\bin\Debug\sezar.pdb
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.csprojAssemblyReference.cache
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.Properties.Resources.resources
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.csproj.GenerateResource.cache
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.csproj.CoreCompileInputs.cache
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.exe
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.pdb
+C:\Users\meteh\source\repos\sezar\sezar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\meteh\source\repos\sezar\sezar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.csproj.CopyComplete
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.frmSifrele.resources
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.frmMain.resources
+C:\Users\meteh\source\repos\sezar\sezar\obj\Debug\sezar.frmSifreCoz.resources
